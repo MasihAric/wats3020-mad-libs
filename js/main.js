@@ -9,53 +9,53 @@
 //
 //
 //
-let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).');
+let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel)','Captain');
 
 // Using the same prompt() command, populate the following variables:
 //
 //
-let authorName = prompt('What is your full name?');
+let authorName = prompt('What is your full name?','John Doe');
 
 //
-let adjective1 = prompt('Give a word used to describe something');
+let adjective1 = prompt('Give a word used to describe something','Cold');
 // 
-let vehicle = prompt('Enter mode of transation(e.g. plane, boat, etc.');
+let vehicle = prompt('Enter mode of transation(e.g. plane, boat, etc.','Car');
 // 
-let vehiclePart = prompt('What is part of the vehicle you just named');
+let vehiclePart = prompt('What is part of the vehicle you just named','Tire');
 // 
-let parking = prompt('Where did you park the vehicle you just named');
+let parking = prompt('Where did you park the vehicle you just named','Grass');
 //
-let precious = prompt ('Name a precious object');
+let precious = prompt ('Name a precious object','Daimond');
 // 
-let noiseMaker = prompt('Name something that makes a sound');
+let noiseMaker = prompt('Name something that makes a sound','Goat');
 // 
-let crowdBehavior = prompt ('What is somehting people do together as a group');
+let crowdBehavior = prompt ('What is somehting people do together as a group', 'Dance');
 // 
-let adjective2 = prompt('Describe something');
+let adjective2 = prompt('Describe something','Hot');
 // 
-let adjective3 = prompt('Describe something');
+let adjective3 = prompt('Describe something','Big');
 // 
-let color = prompt('Name a color');
+let color = prompt('Name a color','Black');
 // 
-let familyMember = prompt('What is the name of a family relationship(e.g. sister, father, etc)');
+let familyMember = prompt('What is the name of a family relationship(e.g. sister, father, etc)','Son');
 // 
-let organ = prompt('Name a body organ.');
+let organ = prompt('Name a body organ.','Liver');
 // 
-let bodyPart1 = prompt('Enter name of a body part.');
+let bodyPart1 = prompt('Enter name of a body part.','Finger');
 // 
-let bodyPart2 = ('Enter name of a body part.');
+let bodyPart2 = ('Enter name of a body part.','Leg');
 // 
-let bodyPart3 = ('Enter name of body part.');
+let bodyPart3 = ('Enter name of body part.', 'hand');
 // 
-let thing = prompt('Enter an object.');
+let thing = prompt('Enter an object.','Box');
 // 
-let thing2 = prompt ('Enter an object you might give somebody you love.');
+let thing2 = prompt ('Enter an object you might give somebody you love.','Flowers');
 // 
-let thing3 = prompt('Enter an object you might give somebody you like.');
+let thing3 = prompt('Enter an object you might give somebody you like.','Gift Card');
 // 
-let adjective4 = prompt('Enter a word used to describe the vehicle.');
+let adjective4 = prompt('Enter a word used to describe the vehicle.','Fast');
 // 
-let adjective5 = prompt('Enter a word used to describe the vehicle.');
+let adjective5 = prompt('Enter a word used to describe the vehicle.','Junk');
 
 ////////////////////////////////////////////////////////////////////////
 // Section Numbers
